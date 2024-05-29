@@ -1,5 +1,0 @@
-services:
-  test:
-    image: nginx:1.21.3-alpine
-    ports:
-      - "81:80"
